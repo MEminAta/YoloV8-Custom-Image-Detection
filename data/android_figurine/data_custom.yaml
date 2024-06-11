@@ -1,0 +1,6 @@
+train: /Users/atasayar/Desktop/Proje/ObjectTrackingModelTrain/data/android_figurine/train
+val: /Users/atasayar/Desktop/Proje/ObjectTrackingModelTrain/data/android_figurine/val
+
+nc: 2
+
+names: [ "android","pig_android" ]

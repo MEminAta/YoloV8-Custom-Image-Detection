@@ -1,0 +1,10 @@
+/Users/atasayar/Desktop/Proje/ObjectTrackingModelTrain/data/android_figurine/val/IMG_0498.jpg
+/Users/atasayar/Desktop/Proje/ObjectTrackingModelTrain/data/android_figurine/val/IMG_0499.jpg
+/Users/atasayar/Desktop/Proje/ObjectTrackingModelTrain/data/android_figurine/val/IMG_0501.jpg
+/Users/atasayar/Desktop/Proje/ObjectTrackingModelTrain/data/android_figurine/val/IMG_0500.jpg
+/Users/atasayar/Desktop/Proje/ObjectTrackingModelTrain/data/android_figurine/val/IMG_0502.jpg
+/Users/atasayar/Desktop/Proje/ObjectTrackingModelTrain/data/android_figurine/val/IMG_0493.jpg
+/Users/atasayar/Desktop/Proje/ObjectTrackingModelTrain/data/android_figurine/val/IMG_0497.jpg
+/Users/atasayar/Desktop/Proje/ObjectTrackingModelTrain/data/android_figurine/val/IMG_0496.jpg
+/Users/atasayar/Desktop/Proje/ObjectTrackingModelTrain/data/android_figurine/val/IMG_0494.jpg
+/Users/atasayar/Desktop/Proje/ObjectTrackingModelTrain/data/android_figurine/val/IMG_0495.jpg
